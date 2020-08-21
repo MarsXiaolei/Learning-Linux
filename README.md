@@ -9,9 +9,9 @@ https://www.cnblogs.com/mahang/archive/2011/09/01/2161672.html
 ### 每日一个Linux命令
 https://www.cnblogs.com/peida/tag/%E6%AF%8F%E6%97%A5%E4%B8%80linux%E5%91%BD%E4%BB%A4/
 
-* [!cd-访问目录](https://www.cnblogs.com/peida/archive/2012/10/24/2736501.html)
-* ls-遍历文件
-* mkdir:创建目录或文件
+* [cd-访问目录](https://www.cnblogs.com/peida/archive/2012/10/24/2736501.html)
+* [ls-遍历文件](https://blog.csdn.net/gnail_oug/article/details/70162658)
+* [mkdir-创建目录或文件](https://www.cnblogs.com/peida/archive/2012/10/25/2738271.html)
 
 #### cd命令
 https://www.cnblogs.com/peida/archive/2012/10/24/2736501.html

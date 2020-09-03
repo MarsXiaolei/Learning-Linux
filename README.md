@@ -33,3 +33,5 @@ https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html
 * [touch-`不常用，修改文件时间戳，或者新建一个不存在的文件`](https://www.cnblogs.com/peida/archive/2012/10/30/2745714.html)
 * [ifconfig-`获取网络接口配置信息`](https://www.cnblogs.com/peida/archive/2013/02/27/2934525.html)
 * [ping-`测试与目标主机的连通性`](https://www.cnblogs.com/peida/archive/2013/03/06/2945407.html)
+* [`linux的top命令参数详解`](https://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316399.html)
+

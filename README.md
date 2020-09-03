@@ -34,4 +34,6 @@ https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html
 * [ifconfig-`获取网络接口配置信息`](https://www.cnblogs.com/peida/archive/2013/02/27/2934525.html)
 * [ping-`测试与目标主机的连通性`](https://www.cnblogs.com/peida/archive/2013/03/06/2945407.html)
 * [`linux的top命令参数详解`](https://www.cnblogs.com/ggjucheng/archive/2012/01/08/2316399.html)
+* [`kill命令`](https://www.cnblogs.com/peida/archive/2012/12/20/2825837.html)
+
 

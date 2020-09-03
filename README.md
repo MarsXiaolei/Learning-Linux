@@ -8,8 +8,8 @@ https://www.cnblogs.com/masbay/p/10745170.html
 * `Source Insight`<br>
 * `WinSCP`<br>
 * `WinSCP`<br>
-  `[CMake教程之CMake从入门到应用](https://aiden-dong.github.io/2019/07/20/CMake%E6%95%99%E7%A8%8B%E4%B9%8BCMake%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%BA%94%E7%94%A8/)`<br>
-  `[Linux下CMake简明教程](https://blog.csdn.net/whahu1989/article/details/82078563)`<br>
+  [CMake教程之CMake从入门到应用](https://aiden-dong.github.io/2019/07/20/CMake%E6%95%99%E7%A8%8B%E4%B9%8BCMake%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%BA%94%E7%94%A8/)<br>
+  [Linux下CMake简明教程](https://blog.csdn.net/whahu1989/article/details/82078563)<br>
 
 ### VI命令
 https://www.cnblogs.com/mahang/archive/2011/09/01/2161672.html

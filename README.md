@@ -1,7 +1,12 @@
 # Learning-Linux
-学习Linux
+
 #### Windows10安装Ubuntu双系统
 https://www.cnblogs.com/masbay/p/10745170.html
+
+### 跨平台工具
+* `SecureCRT`<br>
+* `Source Insight`<br>
+* `WinSCP`<br>
 
 ### CMake教程之CMake从入门到应用
 https://aiden-dong.github.io/2019/07/20/CMake%E6%95%99%E7%A8%8B%E4%B9%8BCMake%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%BA%94%E7%94%A8/

@@ -1,6 +1,6 @@
 # Learning-Linux
 
-#### Windows10安装Ubuntu双系统
+### Windows10安装Ubuntu双系统
 https://www.cnblogs.com/masbay/p/10745170.html
 
 ### 跨平台工具
@@ -17,10 +17,10 @@ https://blog.csdn.net/whahu1989/article/details/82078563
 ### VI命令
 https://www.cnblogs.com/mahang/archive/2011/09/01/2161672.html
 
-#### Linux目录结构
+### Linux目录结构
 https://www.cnblogs.com/peida/archive/2012/11/21/2780075.html
 
-#### 每日一个Linux命令
+### 每日一个Linux命令
 https://www.cnblogs.com/peida/archive/2012/12/05/2803591.html
 
 * [cd-`访问目录`](https://www.cnblogs.com/peida/archive/2012/10/24/2736501.html)

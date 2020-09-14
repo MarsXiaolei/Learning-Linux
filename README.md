@@ -12,6 +12,8 @@ https://www.cnblogs.com/masbay/p/10745170.html
   [Linux下CMake简明教程](https://blog.csdn.net/whahu1989/article/details/82078563)<br>
 * `qmake`<br>
 * `G++和gcc编译`<br>
+* `TortoiseGit`<br>
+  [TortoiseGit 使用教程](https://www.cnblogs.com/anayigeren/p/10177027.html)<br>
 
 ### VI命令
 https://www.cnblogs.com/mahang/archive/2011/09/01/2161672.html

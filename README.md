@@ -15,6 +15,7 @@ https://www.cnblogs.com/masbay/p/10745170.html
 * `G++和gcc编译`<br>
 * `TortoiseGit`<br>
   [TortoiseGit 使用教程](https://www.cnblogs.com/anayigeren/p/10177027.html)<br>
+* `Beyond Compare`-`文本比较`<br>
 
 ### VI命令
 https://www.cnblogs.com/mahang/archive/2011/09/01/2161672.html

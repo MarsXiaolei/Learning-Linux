@@ -19,6 +19,9 @@ https://www.cnblogs.com/masbay/p/10745170.html
 ### VI命令
 https://www.cnblogs.com/mahang/archive/2011/09/01/2161672.html
 
+### shell脚本编写
+https://www.runoob.com/linux/linux-shell.html
+
 ### Linux目录结构
 https://www.cnblogs.com/peida/archive/2012/11/21/2780075.html
 

@@ -3,6 +3,9 @@
 ### Windows10安装Ubuntu双系统
 https://www.cnblogs.com/masbay/p/10745170.html
 
+### 解决VmwareWorkstation安装Ubuntu后无法全屏和拖拽文件问题（安装Vmware-Tools）
+https://blog.csdn.net/alike_meng/article/details/84986964
+
 ### 跨平台开发工具
 * `SecureCRT`<br>
 * `Source Insight`-`面向项目的代码编辑器`<br>
